@@ -1,4 +1,4 @@
-##GIT PRACTICE
+## GIT PRACTICE
 #### Rongxian(Jennie) Wang
 **Link:** https://www.developerdotstar.com/mag/articles/places_intervene_system.html
 
@@ -11,3 +11,7 @@ Followingly, the author talks about 9 items where we can actually intervene the 
 
 **Comment from Carrie Ba(zb631)**  
 One thing that this article draws my attention is where it mentioned how the use of computer and software can be a solution to many problems in any system. The complexity of many problems and questions have reached the level that can not be seen, understanded and solved by human. We need to bring the use of computer and software development into the system to provide a better solution to solve the problem. More importantly, the idea of leverage point is also mentioned many times in the article that reminds how important the role of software development could play. A little change could be way more meaningful than we thought it would be. It is more meaningful for a software to be inspiring for for people to innovate. 
+
+
+**Comment from Jason Yu(jy2575)**  
+I found this article very thought-provoking! It really makes me ponder on this issue. Thank you Jennie for sharing this article.
